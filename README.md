@@ -1,2 +1,2 @@
 # channel
-Content for video channels
+Content for channel videos
