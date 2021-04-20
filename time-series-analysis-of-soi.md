@@ -22,3 +22,11 @@ Use the dataset provided to create a time series analysis of SOI using same basi
 
 Dataset [CSV](https://www.ncdc.noaa.gov/teleconnections/enso/indicators/soi/data.csv) \| [JSON](https://www.ncdc.noaa.gov/teleconnections/enso/indicators/soi/data.json) \| [XML](https://www.ncdc.noaa.gov/teleconnections/enso/indicators/soi/data.xml)
 
+![](.gitbook/assets/scrnli_20_04_2021-14-19-40.png)
+
+![](.gitbook/assets/scrnli_20_04_2021-14-20-00.png)
+
+![](.gitbook/assets/scrnli_20_04_2021-14-20-22.png)
+
+![](.gitbook/assets/scrnli_20_04_2021-14-20-43.png)
+
